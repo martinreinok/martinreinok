@@ -1,3 +1,4 @@
 - Hi, I’m @martinreinok
-- I’m Electrical Engineer
-- I’m currently learning networking and network automation
+- I’m an Electrical Engineer
+- I’m currently learning networking and network automation (Paramiko, Netmiko, Cisco, Extreme Networks and some other devices)
+- I mostly work with Python, C/C++
